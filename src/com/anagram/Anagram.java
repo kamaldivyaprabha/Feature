@@ -4,8 +4,8 @@ public class Anagram {
 	
 	public static void main(String[] args) {
 		
-		String s1 = "kamal";
-	    String s2 = "vyadi";
+		String s1 = "kamaldivyaprabha";
+	    
 	    int flag = 0;
 	    
 	    char [] ch =s1.toCharArray();

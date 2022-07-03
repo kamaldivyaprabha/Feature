@@ -4,7 +4,7 @@ public class Anagram {
 	
 	public static void main(String[] args) {
 		
-		String s1 = "divya";
+		String s1 = "kamal";
 	    String s2 = "vyadi";
 	    int flag = 0;
 	    
